@@ -1,0 +1,7 @@
+mom="Maia"
+dad="nugzari"
+big_brother="gio"
+big_sister="diana"
+grandma="naziko"
+grandma2="cicino"
+grandpa="ramazi"
