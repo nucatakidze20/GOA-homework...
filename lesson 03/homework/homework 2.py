@@ -1,0 +1,12 @@
+num1 = 50
+num2 = 25
+num3 = 22
+num4 = 66
+num5 = 43
+num6 = 64
+num7 = 46
+num8 = 73
+print(num4 + num6)
+print(num8 - num3)
+print(num5 + num2)
+print(num1 - num7)
